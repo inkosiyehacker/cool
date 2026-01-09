@@ -55,7 +55,7 @@ const general = {
 
     preview: {
       user: {
-        github: 'inkosiyehacker,
+        github: 'inkosiyehacker',
       },
     },
   },
